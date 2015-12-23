@@ -47,3 +47,4 @@ end
 
 gem 'devise_token_auth'
 gem 'omniauth-facebook'
+gem 'figaro', :github => "laserlemon/figaro"
